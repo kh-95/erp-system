@@ -1,0 +1,13 @@
+{
+    "name": "Governance",
+    "alias": "governance",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "App\\Modules\\Governance\\Providers\\GovernanceServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

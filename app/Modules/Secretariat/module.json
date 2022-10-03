@@ -1,0 +1,13 @@
+{
+    "name": "Secretariat",
+    "alias": "secretariat",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "App\\Modules\\Secretariat\\Providers\\SecretariatServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

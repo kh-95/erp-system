@@ -1,0 +1,13 @@
+{
+    "HR": true,
+    "User": true,
+    "Reception": true,
+    "Secretariat": true,
+    "RiskManagement": true,
+    "Legal": true,
+    "Governance": true,
+    "CustomerService": true,
+    "Finance": true,
+    "Collection": true,
+    "TempApplication": true
+}

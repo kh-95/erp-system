@@ -1,0 +1,13 @@
+{
+    "name": "CustomerService",
+    "alias": "customerservice",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "App\\Modules\\CustomerService\\Providers\\CustomerServiceServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

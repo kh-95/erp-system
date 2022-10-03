@@ -1,0 +1,11 @@
+{
+    "name": "TempApplication",
+    "alias": "tempapplication",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "App\\Modules\\TempApplication\\Providers\\TempApplicationServiceProvider"
+    ],
+    "files": []
+}

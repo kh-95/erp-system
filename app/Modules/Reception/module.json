@@ -1,0 +1,13 @@
+{
+    "name": "Reception",
+    "alias": "reception",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "App\\Modules\\Reception\\Providers\\ReceptionServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

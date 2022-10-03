@@ -1,0 +1,13 @@
+{
+    "name": "Legal",
+    "alias": "legal",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "App\\Modules\\Legal\\Providers\\LegalServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
